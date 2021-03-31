@@ -1,3 +1,4 @@
 # Morse Translator
-# Portuguese -> Morse Code
-# Morse Code -> Portuguese
+
+Portuguese -> Morse Code
+Morse Code -> Portuguese
